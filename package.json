@@ -52,7 +52,7 @@
     "tablesorter": "^2.31.3",
     "tracekit": "0.4.6",
     "ts-loader": "^9.4.2",
-    "typescript": "^5.0.2",
+    "typescript": "^5.3.3",
     "u2f-api-polyfill": "0.4.4",
     "updated-jqplot": "1.0.9",
     "webpack": "^5.76.3",
