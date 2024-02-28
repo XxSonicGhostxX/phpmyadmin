@@ -55,7 +55,7 @@
     "typescript": "^5.0.2",
     "u2f-api-polyfill": "0.4.4",
     "updated-jqplot": "1.0.9",
-    "webpack": "^5.76.3",
+    "webpack": "^5.90.1",
     "webpack-cli": "^5.0.1",
     "webpack-concat-files-plugin": "^0.5.2"
   },
