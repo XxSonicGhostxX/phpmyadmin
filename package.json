@@ -12,7 +12,7 @@
   "type": "module",
   "dependencies": {
     "@babel/cli": "^7.22.15",
-    "@babel/core": "^7.22.17",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-typescript": "^7.21.0",
     "@popperjs/core": "^2.11.8",
@@ -43,7 +43,7 @@
     "mini-css-extract-plugin": "^2.5.3",
     "ol": "^7.1.0",
     "postcss": "^8.4.21",
-    "postcss-cli": "^10.1.0",
+    "postcss-cli": "^11.0.1",
     "postcss-loader": "^7.1.0",
     "rtlcss": "^4.0.0",
     "rtlcss-webpack-plugin": "^4.0.7",
